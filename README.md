@@ -24,7 +24,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
+git clone https://github.com/Maploop/NeovimConfig ~/.config/nvim
 ```
 
 #### Start Neovim
@@ -32,3 +32,5 @@ git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
 ```shell
 nvim
 ```
+## Screenshot
+![image](https://github.com/user-attachments/assets/255b1e06-7cc4-4094-90ab-b3f5a0e86fc2)
