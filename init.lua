@@ -18,6 +18,7 @@ end
 require "lazy_setup"
 require "polish"
 
-vim.cmd("colo neofusion")
+vim.cmd("colo tokyodark")
 vim.cmd("noremap <F2> <Cmd>FloatermToggle(1)<CR>")
 vim.cmd("noremap <F3> <Cmd>Neotree<CR>")
+vim.cmd("noremap <F5> <Cmd>./run.bat<CR>")
